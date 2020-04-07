@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hungry">I am so Hungry</string>
+    <string name="text_button">Eat Cookie</string>
+    <string name="full">I am so Full</string>
+
+</resources>
